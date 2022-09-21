@@ -1,0 +1,40 @@
+.bg{
+	background-image: url("admin/4.jpg");
+}
+
+
+.title{
+	color: black;
+	font-family: cambria;
+	font-size: 1.6em;
+	font-weight: bold;
+
+}
+.text{
+	padding: 12px;
+	background-color: white;
+	color: black;
+	width: 90%;
+	border-radius: 10px;
+	font-weight: bold;
+}
+.tr{
+	color: rgb(181, 71, 255);
+}
+
+
+
+.btn{
+	color: black;
+	background-color: lightgreen;
+	border:0px;
+	box-shadow: 1px 3px 5px 2px;
+	width: 50%;
+	height: 35px;
+	font-size: 1.3em;
+}
+.ar{
+	padding: 12px;
+	background-color: white;
+	color: black;
+}
